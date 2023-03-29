@@ -1,4 +1,10 @@
+## CARA RUN BOT DI TERMUX
+
 ```bash
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
 git clone https://github.com/nazedev/naze
 cd naze
 npm install
@@ -25,10 +31,4 @@ npm install
 
 ```bash
 pkg install yarn
-yarn
-```
-
-## Installing
-```bash
-$ node .
-```
+y
