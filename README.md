@@ -1,5 +1,4 @@
 ## COMMAND TERMUX
-
 ```bash
 apt update && apt upgrade
 apt install git -y
@@ -10,4 +9,10 @@ cd naze
 npm install
 npm start
 ```
+
+
+
+
+
+
 
