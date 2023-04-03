@@ -1,4 +1,4 @@
-##ㅤㅤCOMMAND TERMUX
+## COMMAND TERMUX
 ```bash
 • pkg update && pkg upgrade
 • pkg install git -y
