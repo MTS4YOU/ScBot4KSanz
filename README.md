@@ -5,7 +5,7 @@
 • pkg install nodejs -y
 • pkg install ffmpeg -y
 • pkg install npm
-• git clone https://github.com/MTS4YOU/SC-BOT-4K-SANZ
-• cd SC-BOT-4K-SANZ
+• git clone https://github.com/MTS4YOU/ScBot4KSanz
+• cd ScBot4KSanz
 • npm start
 ```
